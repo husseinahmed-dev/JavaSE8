@@ -1,2 +1,2 @@
-# JavaSE8_College
-Java SE8 from my College Courses
+# JavaSE8 Project
+Source code from my College Java courses :)
